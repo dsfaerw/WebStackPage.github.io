@@ -65,3 +65,17 @@
 .img-circle {
     padding: 7px 0;
 }
+/* 加大标题 */
+.main-content h4.text-gray {
+  font-size: 24px !important;
+  font-weight: 900 !important;
+  margin: 15px 0; /* 添加间距 */
+}
+
+/* 加粗内容标题 */
+.xe-conversations .xe-comment strong {
+  font-size: 18px !important;
+  font-weight: 900 !important;
+  display: block; /* 让标题独占一行 */
+  margin-bottom: 8px; /* 添加与描述的间距 */
+}
