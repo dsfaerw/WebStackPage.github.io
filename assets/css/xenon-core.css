@@ -24,11 +24,11 @@
 
 .ps-container .ps-scrollbar-x-rail:hover,
 .ps-container .ps-scrollbar-x-rail.hover {
-    background-color: rgba(255, 255, 255, .5)
+    background-color: rgba(196, 196, 255, .5)
 }
 
 .ps-container .ps-scrollbar-x-rail.in-scrolling {
-    background-color: rgba(255, 255, 255, .9)
+    background-color: rgba(196, 196, 196, .9)
 }
 
 .ps-container .ps-scrollbar-y-rail {
@@ -57,7 +57,7 @@
 
 .ps-container .ps-scrollbar-y-rail:hover,
 .ps-container .ps-scrollbar-y-rail.hover {
-    background-color: rgba(255, 255, 255, .5)
+    background-color: rgba(196, 196, 196, .5)
 }
 
 .ps-container .ps-scrollbar-y-rail.in-scrolling {
