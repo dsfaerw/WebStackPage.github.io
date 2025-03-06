@@ -61,7 +61,7 @@
 }
 
 .ps-container .ps-scrollbar-y-rail.in-scrolling {
-    background-color: #EFF0FF;
+    background-color: #eff0ff;
     zoom: 1;
     filter: alpha(opacity=90);
     -webkit-opacity: .9;
@@ -106,7 +106,7 @@
 
 .ps-container .ps-scrollbar-y-rail:hover .ps-scrollbar-y,
 .ps-container .ps-scrollbar-y-rail.hover .ps-scrollbar-y {
-    background-color: #EFF0FF
+    background-color: #eff0ff
 }
 
 .ps-container.ie .ps-scrollbar-x,
@@ -762,7 +762,7 @@ body {
 }
 
 .boxed-container {
-    background: #EFF0FF
+    background: #eff0ff
 }
 
 .boxed-container #chat .chat-inner {
@@ -823,7 +823,7 @@ body {
 }
 
 .boxed-container .page-container .main-content {
-    background-color: #EFF0FF
+    background-color: #eff0ff
 }
 
 .page-container .main-content:hover {
@@ -831,7 +831,7 @@ body {
 }
 
 .page-container .main-content .page-title {
-    background: #f8f8f8;
+    background: #eff0ff;
     margin: -30px;
     margin-bottom: 30px;
     padding: 20px 0;
