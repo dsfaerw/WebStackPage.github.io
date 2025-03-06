@@ -918,13 +918,13 @@ body {
     display: table-cell;
     position: relative;
     width: 280px;
-    background: #2c2e2f;
+    background: #512DA8;
     z-index: 1
 }
 
 .sidebar-menu .logo-env {
     padding: 19px 45px;
-    border-bottom: 1px solid #313437
+    border-bottom: 1px solid #512DA8
 }
 
 .sidebar-menu .logo-env .logo {
