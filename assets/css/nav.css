@@ -79,3 +79,36 @@
   display: block; /* 让标题独占一行 */
   margin-bottom: 8px; /* 添加与描述的间距 */
 }
+/* 导航栏全局字体 */
+nav {
+  font-size: 17px !important;
+  font-weight: 600 !important;
+}
+
+/* 导航标题强化 */
+nav h1, nav h2, nav h3 {
+  font-weight: 900 !important;
+  font-size: 24px !important;
+}
+
+/* 导航链接加粗 */
+nav a {
+  font-weight: 700 !important;
+}
+
+/* 子菜单特殊处理 */
+nav .submenu {
+  font-size: 16px !important;  /* 子菜单稍小 */
+}
+/* 图标和按钮保持原样 */
+nav .fa-icon, nav .button {
+  font-weight: normal !important;
+  font-size: inherit !important;
+}
+/* 手机端减小字号 */
+@media (max-width: 768px) {
+  nav {
+    font-size: 15px !important;
+  }
+}
+
