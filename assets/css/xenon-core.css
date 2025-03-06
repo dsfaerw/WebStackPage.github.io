@@ -742,7 +742,7 @@ footer.main-footer .footer-inner:after,
 }
 
 body {
-    background-color: #f9f9f9;
+    background-color: #EFF0FF;
 }
 
 a {
@@ -762,7 +762,7 @@ body {
 }
 
 .boxed-container {
-    background: #f9f9f9
+    background: #EFF0FF
 }
 
 .boxed-container #chat .chat-inner {
@@ -823,7 +823,7 @@ body {
 }
 
 .boxed-container .page-container .main-content {
-    background-color: #f9f9f9
+    background-color: #EFF0FF
 }
 
 .page-container .main-content:hover {
