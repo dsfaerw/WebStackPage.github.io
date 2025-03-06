@@ -742,7 +742,7 @@ footer.main-footer .footer-inner:after,
 }
 
 body {
-    background-color: #EFF0FF;
+    background-color: #fffcff;
 }
 
 a {
@@ -762,7 +762,7 @@ body {
 }
 
 .boxed-container {
-    background: #eff0ff
+    background: #fffcff
 }
 
 .boxed-container #chat .chat-inner {
@@ -823,7 +823,7 @@ body {
 }
 
 .boxed-container .page-container .main-content {
-    background-color: #eff0ff
+    background-color: #fffcff
 }
 
 .page-container .main-content:hover {
@@ -918,13 +918,13 @@ body {
     display: table-cell;
     position: relative;
     width: 280px;
-    background: #160c2e;
+    background: #010000;
     z-index: 1
 }
 
 .sidebar-menu .logo-env {
     padding: 19px 45px;
-    border-bottom: 1px solid #160c2e
+    border-bottom: 1px solid #010000
 }
 
 .sidebar-menu .logo-env .logo {
